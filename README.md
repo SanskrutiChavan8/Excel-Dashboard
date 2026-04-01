@@ -1,6 +1,5 @@
 <img width="603" height="286" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/e996ee6e-704d-4848-b644-a0333ddb72e8" />
-<img width="1257" height="422" alt="Screenshot 2026-03-31 231657" src="https://github.com/user-attachments/assets/72e9cbe3-7ece-4631-84f7-d182afdbcb86" />
-# Excel-Dashboard
+
 Interactive Excel dashboard with sales analytics
 # Super Store Sales Dashboard
 
